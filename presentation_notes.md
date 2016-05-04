@@ -117,6 +117,7 @@ Define: STEM == Science, Technology, Engineering and Mathematics
 **Slide 44:** Positive action
 
 * Rebalancing the scales, rather than having an all-women cohort
+* Invite students to tweet us (for transparency) with suggestions on alternatives to the discount
 
 **Slide 45:** Makers want the best
 
