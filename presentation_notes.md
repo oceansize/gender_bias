@@ -142,7 +142,7 @@ Define: STEM == Science, Technology, Engineering and Mathematics
 ###Slide 35 (Claudia)
 `content:` Quote - Code Literacy for Participation
 
-* It is immortal to exclude anyone from participating in a future that affects everyone
+* It is immoral to exclude anyone from participating in a future that affects everyone
 
 ###Slide 36 (Claudia)
 `content:` Quote - Quality, Relevance and Impact
