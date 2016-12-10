@@ -34,4 +34,4 @@
 * Crawford Talk
 * Salary Anecdote (encourage your female colleagues to ask for pay rises)
 * Talking and Interruption
-  
+* Implicit bias test: https://implicit.harvard.edu/implicit/index.jsp  
