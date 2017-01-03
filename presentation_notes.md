@@ -68,7 +68,7 @@ Define: STEM == Science, Technology, Engineering and Mathematics
 
 ###Slide 16 (Arf)
 `content:` Books
-###Slide 17 (Roi)
+###Slide 17 (Arf)
 `content:` Publish date
 
 ###Slide 18 (Arf)
